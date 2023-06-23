@@ -23,6 +23,10 @@ Personal Portfolio website is website which allows an individual to showcase his
 ![Screenshot 2023-06-23 170653](https://github.com/ManavJuneja/FutureReadyTalentManav/assets/97352650/e58c5f30-17e8-4467-a515-258c7f30c3f9)
 ![Screenshot 2023-06-23 170718](https://github.com/ManavJuneja/FutureReadyTalentManav/assets/97352650/40be659b-0ad1-47aa-afa4-27b79bed7137)
 
+# Project Link 
+Microsoft azure link Hosted by Static Web App
+https://jolly-sky-0af8d8610.3.azurestaticapps.net
+
 
 
 # Project Screenshot
